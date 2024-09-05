@@ -1,3 +1,3 @@
 To start 
-npm i
+npm i, 
 nodemon server.js
